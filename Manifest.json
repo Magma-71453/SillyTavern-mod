@@ -1,7 +1,7 @@
 {
-  "name": "通义图图喵",
+  "name": "tongyi-draw",
   "version": "1.0.0",
   "main": "tongyi-draw.js",
   "author": "喵喵GPT",
-  "description": "用通义千问生图图喵～"
+  "description": "通义千问图像生成功能扩展喵～"
 }
