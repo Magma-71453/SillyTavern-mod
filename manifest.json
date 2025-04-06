@@ -1,0 +1,12 @@
+{
+    "display_name": "TongyiDraw",
+    "loading_order": 5,
+    "requires": [],
+    "optional": [],
+    "js": "tongyi-draw.js",
+    "css": "",
+    "author": "喵喵GPT",
+    "version": "1.0.0",
+    "homePage": "https://github.com/Magma-71453/SillyTavern-mod",
+    "auto_update": false
+}
